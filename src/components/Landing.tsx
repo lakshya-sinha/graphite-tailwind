@@ -1,7 +1,7 @@
 
 const Landing = () => {
   return (
-    <section className='flex items-center justify-evenly w-[80%] m-[auto 0] '>
+    <section className='flex items-center justify-evenly w-[80%] m-[auto] '>
       <div className="s-first w-[60%]">
         <div className="s-f-line text-6xl flex flex-col gap-2 font-thin mb-4">
           <h1 className=''>The next generation</h1><h1>of code review.</h1>
